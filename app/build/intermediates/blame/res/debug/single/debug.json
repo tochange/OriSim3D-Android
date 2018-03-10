@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_blueyellow72x72.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/blueyellow72x72.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/anim_layout_wave_scale.xml.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/anim/layout_wave_scale.xml"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_boat72x72.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/boat72x72.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_gally400x572.jpg.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/gally400x572.jpg"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_orisim.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-mdpi/ic_launcher_orisim.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_background256x256.jpg.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/background256x256.jpg"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_austria72x72.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/austria72x72.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_orisim.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-hdpi/ic_launcher_orisim.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_orisim.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-ldpi/ic_launcher_orisim.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_sunako400x572.jpg.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/sunako400x572.jpg"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_cocotte72x72.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/cocotte72x72.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/anim_wave_scale.xml.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/anim/wave_scale.xml"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/layout_layout_model_selection.xml.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/layout/layout_model_selection.xml"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_gally72x72.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/gally72x72.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-nodpi_duck72x72.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-nodpi/duck72x72.png"
+    },
+    {
+        "merged": "/Users/joey/Desktop/OriSim3D-Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_orisim.png.flat",
+        "source": "/Users/joey/Desktop/OriSim3D-Android1/app/src/main/res/drawable-xhdpi/ic_launcher_orisim.png"
+    }
+]
